@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: alluvial landforms,
   hydraulic geometry, and dominant discharge.'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/c9703f8b6b0c7833e7d9e4f0e91afea8_week3.pdf
+file_size: 2594107
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

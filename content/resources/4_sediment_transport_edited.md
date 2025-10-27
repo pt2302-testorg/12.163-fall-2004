@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture presentation covering the following topics: sediment transport,
   alluvial river profiles.'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/dc535399a0dd27a3a3987c050c535a2c_4_sediment_transport_edited.pdf
+file_size: 1216737
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

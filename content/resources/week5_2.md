@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/474d05c52d80f304311e6c2c82510e1f_week5_2.pdf
+file_size: 371440
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

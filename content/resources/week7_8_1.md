@@ -5,6 +5,7 @@ description: 'This resource contains topics like: Definitions: Transport Limited
   Processes, Mathematical Description of Processes, Soil Mantled Slopes: Steady State
   Forms, Soil Creep Mechanics: SSF Regime, and weathering and soil production.'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f5af48b6712c3dedbefbebbe699cd803_week7_8_1.pdf
+file_size: 97508
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

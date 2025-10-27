@@ -2,9 +2,10 @@
 content_type: resource
 description: ''
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/5c1074c3755d68c9494f282ad9707aee_lab3.pdf
+file_size: 178136
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

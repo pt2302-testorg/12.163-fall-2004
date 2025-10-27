@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation.
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/46e6a8d487656adfc312c6e9eed623cd_5_alluvial_river_profiles.pdf
+file_size: 524809
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

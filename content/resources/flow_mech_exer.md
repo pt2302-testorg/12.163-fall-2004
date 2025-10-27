@@ -4,9 +4,10 @@ description: This lab exercise is intended to give the student practice working 
   the relationships you have seen derived in class before you are asked to analyze
   field data from the Baker River.
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/e888974af939bfe26564f78da1710cc9_flow_mech_exer.pdf
+file_size: 93799
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

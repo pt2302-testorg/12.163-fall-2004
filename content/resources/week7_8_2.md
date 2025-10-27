@@ -6,6 +6,7 @@ description: 'Lecture presentation covering the following topics: Definitions: T
   Slopes: Steady State Forms, Soil Creep Mechanics: SSF Regime, and weathering and
   soil production.'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/84731c7a9e7b22204a08ede58e0c74bd_week7_8_2.pdf
+file_size: 938708
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

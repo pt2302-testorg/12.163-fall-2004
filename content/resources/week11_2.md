@@ -5,6 +5,7 @@ description: 'Lecture presentation covering the following topics: River incision
   Load, Critical Shear Stress and Flood Frequency Distribution, and Transport-Limited
   Incising Channels (Alluvial but Erosional).'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f1ae0c0c43cba449fac63a8815c00e15_week11_2.pdf
+file_size: 417434
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,7 +2,7 @@
 content_type: page
 description: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: d151e34c-e283-2e8b-feef-57e07bff6bc4

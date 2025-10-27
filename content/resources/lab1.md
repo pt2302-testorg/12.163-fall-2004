@@ -7,9 +7,10 @@ description: 'First lab exercise / field trip. The overall objective of this tri
   class ? we will introduce you to the range of problems and types of questions to
   which we will seek answers during the course.'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/f7f7eacb9badaa660aa8adc86e559410_lab1.pdf
+file_size: 131111
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

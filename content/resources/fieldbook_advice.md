@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplemental handout.
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/d7f30aa72fd257d670335ddcfa172e3f_fieldbook_advice.pdf
+file_size: 175738
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

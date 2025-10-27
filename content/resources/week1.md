@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation.
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/3f96e78253cd28a4c8293e630fbfe0de_week1.pdf
+file_size: 1680721
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

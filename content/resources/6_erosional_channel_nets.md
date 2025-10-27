@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of topics covered in the lecture.
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/3cc219cc9c9c9e50cd72aabdd376503c_6_erosional_channel_nets.pdf
+file_size: 743774
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

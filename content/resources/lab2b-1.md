@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/fcc969c731961a6e37ae3353111ab60f_Lab2B.pdf
+file_size: 147315
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

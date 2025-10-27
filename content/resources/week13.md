@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains topics like: flow types, mud types, landslides,
   and Cohesionless soil.'
 file: /courses/12-163-surface-processes-and-landscape-evolution-fall-2004/88abcabcb772c8867e5dd2ca681effaa_week13.pdf
+file_size: 98994
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
